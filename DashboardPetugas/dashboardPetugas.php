@@ -31,7 +31,7 @@ if (isset($_SESSION['role'])) {
     <nav class="navbar fixed-top ">
       <div class="container-fluid " style="background-color: black; ">
         <a class="navbar-brand" href="#">
-          <img src="../assets/logoNav.png" alt="logo" width="220px">
+          <img src="../assets/logoNav.png" alt="logo" width="150px">
         </a>
   
         <div class="dropdown">

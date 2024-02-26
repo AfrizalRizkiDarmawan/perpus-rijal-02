@@ -17,7 +17,7 @@ $query = queryReadData("SELECT * FROM buku WHERE id_buku = '$idBuku'");
     <nav class="navbar fixed-top shadow-sm">
       <div class="container-fluid" style="background: black;">
         <a class="navbar-brand" href="#">
-          <img src="../../assets/logoNav.png" alt="logo" width="220px">
+          <img src="../../assets/logoNav.png" alt="logo" width="150px">
         </a>
         
         <a class="btn " href="../dashboardMember.php" style="color: white;">Dashboard</a>

@@ -22,7 +22,7 @@ INNER JOIN admin ON pengembalian.id_admin = admin.id")
     <nav class="navbar fixed-top" >
       <div class="container-fluid" style=" background: black;">
         <a class="navbar-brand" href="#">
-          <img src="../../assets/logoNav.png" alt="logo" width="220px">
+          <img src="../../assets/logoNav.png" alt="logo" width="150px">
         </a>
         
         <a class="btn btn-tertiary" href="../dashboardPetugas.php" style=" color: white;">Dashboard</a>

@@ -40,7 +40,7 @@ if(isset($_POST["update"]) ) {
     <nav class="navbar fixed-top navbar-expand-lg ">
   <div class="container-fluid" style="background: black;">
     <a class="navbar-brand" href="#">
-      <img src="../../assets/logoNav.png" alt="logo" width="220px">
+      <img src="../../assets/logoNav.png" alt="logo" width="150px">
         </a>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
